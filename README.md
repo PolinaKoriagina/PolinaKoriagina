@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, welcome to my Github 👋
+
+Here you can find my [Linkedin profile](https://www.linkedin.com/in/polina-koriagina-5b14371a7/)
 
 <!--
 **PolinaKoriagina/PolinaKoriagina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
