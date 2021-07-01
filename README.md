@@ -2,7 +2,7 @@
 
 Here you can find my [Linkedin profile](https://www.linkedin.com/in/polina-koriagina-5b14371a7/)
 
-[![PolinaKoriagina's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolinaKoriagina)](https://github.com/anuraghazra/github-readme-stats)
+[![Polina's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolinaKoriagina)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
