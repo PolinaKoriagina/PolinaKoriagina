@@ -4,7 +4,7 @@
 
 ![Polina's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolinaKoriagina&show_icons=true&theme=tokyonight)
 
-🌱 I’m currently learning test automation with Java in [QA.GURU school](https://qa.guru)
+🌱 I have finished a course of test automation with Java in [QA.GURU school](https://qa.guru)
 
 :woman_student: You can see my tutorial projects here!
 
